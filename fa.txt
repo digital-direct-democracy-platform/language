@@ -1,4 +1,4 @@
-"NO","language","code","language",5,6,7
+"1:NO","2:language","3:code","4:language",5,6,7
 1,"Afrikaans","af","<a href =""af/index.html"">Afrikaans</a>",,,
 2,"Albanian","sq","<a href =""sq/index.html"">shqiptare</a>",,,
 3,"Amharic","am","<a href =""am/index.html"">አማርኛ</a>",,,
